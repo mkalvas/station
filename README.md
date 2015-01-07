@@ -25,4 +25,4 @@ Some of the error messages may not do well at being situationally aware but I tr
 
 I will not be supporting this in any way. Although there is always a faint chance that I will be bored some day and update this or make some tweaks. Other than that, see the license for as is open source software.
 
-I've included the solution.txt file in the repository so you can see what you need to do if you get stuck. Also, for the industrious among you, there's some commented out code in the source files that are marked testing, that when properly uncommented (and commenting out a "production" line) and recompiling the program, will solve the game for you.
+I've included the solution.txt file in the repository so you can see what you need to do if you get stuck. Also, for the incredibly lazy and boring people out there, there's a completely solved version that will just run through the code for you.
