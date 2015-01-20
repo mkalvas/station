@@ -25,4 +25,4 @@ Some of the error messages may not do well at being situationally aware but I tr
 
 I will not be supporting this in any way. Although there is always a faint chance that I will be bored some day and update this or make some tweaks. Other than that, see the license for as is open source software.
 
-I've included the solution.txt file in the repository so you can see what you need to do if you get stuck. Also, for the incredibly lazy and boring people out there, there's a completely solved version that will just run through the code for you.
+I've included the solution.txt file in the repository so you can see what you need to do if you get stuck. Also, for the incredibly lazy and boring people out there, there's a completely solved version that will just run through the code for you. If you run into any touble using the solved version and you can't find a bug in the code, try regenerating the ```solution.txt``` file on your machine and then adding it to the correct directory (i.e. type it out, don't just copy paste it). I had a strange problem with Windows to *nix compatibility since Windows uses ```\r\n for``` EOL instead of just ```\n```.
